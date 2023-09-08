@@ -9,6 +9,8 @@ This project includes:
 - A sidebar
 - Popup dialog boxes for adding, deleting, and editing table records
 
+A live demo of a customized version of this template can be found here: [Manage Orders Application](https://manage-orders-ui.onrender.com/). 
+
 <p align="center">
 <img width="800" alt="landing page" src="https://github.com/nalithephavong/next_mui_template/assets/54182038/49482986-7f98-4b6f-8da3-1938f8dcd4da">
 </p>
