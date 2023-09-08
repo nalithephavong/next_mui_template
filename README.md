@@ -9,6 +9,14 @@ This project includes:
 - A sidebar
 - Popup dialog boxes for adding, deleting, and editing table records
 
+<p align="center">
+<img width="800" alt="landing page" src="https://github.com/nalithephavong/next_mui_template/assets/54182038/2432e174-ae1f-43f9-858f-42fe7d89e186">
+</p>
+
+<p align="center">
+<img width="800" alt="landing page" src="https://github.com/nalithephavong/next_mui_template/assets/54182038/e39a00dd-89a9-4e7d-99f0-dd4531c71dcb">
+</p>
+
 # Getting Started
 
 ## Prerequisites
