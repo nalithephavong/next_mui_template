@@ -31,4 +31,8 @@ Use ```npm run dev``` to run the application on localhost port 3000.
 # Customizations
 Files under the `templates` folder can be customized according to your needs. Pay special attention to `AppConfig.ts`.
 
+Theme behavior including colors/fonts can be customized in the `/layouts/theme.ts` file.
+
 A sample page is included to demonstrate how a page can be written to use the included components.
+
+**Disclaimer:** This is not optimized for SEO since it's only meant for rapid prototyping. Please see my website example for how to handle SEO files: https://github.com/nalithephavong/EWS_website.
